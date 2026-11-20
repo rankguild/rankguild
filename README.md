@@ -1,16 +1,13 @@
-## Hi there 👋
+# just rankguild, writing code 👋
 
-<!--
-**rankguild/rankguild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Taiwan.
 
-Here are some ideas to get you started:
+- shipping small and often
+- usually building small tools nobody asked for
+- keeps notes about web performance that will never be published
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=rankguild&hide_border=true&theme=github" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rankguild&hide_border=true&theme=merko" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-58a6ff?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Next.js-58a6ff?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vite-58a6ff?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" />
